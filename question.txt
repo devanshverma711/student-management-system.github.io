@@ -1,0 +1,7 @@
+1.wrt a prog to implement student management system using single list and functions. 
+Roll no.
+prn
+name
+sem
+--10 MEMBER--
+use-(INSERT,DELETE,DISPLAY,SEARCH)
